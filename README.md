@@ -1,2 +1,6 @@
 # hello-world
-Little hello world repo
+
+Hi Guests!
+
+Christian here, making small contributions one repo
+at a time 
